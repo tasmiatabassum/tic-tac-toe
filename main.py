@@ -1,4 +1,4 @@
-#****Global Variables****
+#****Global Variables*****
 
 #will hold the game board data
 board = ["-","-","-",
